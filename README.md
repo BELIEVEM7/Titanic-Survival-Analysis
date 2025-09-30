@@ -25,7 +25,7 @@ I used excel for my data cleaning, this was a pivotal stage in my analysis. In t
 
 Here I used Tableau for better visualization, I have provided a screenshot of how my final visualization looked like:
 
-
+![Screenshot](https://github.com/BELIEVEM7/Titanic-Survival-Analysis/blob/9e762d52e1c3434026df0d0a9bacde083e53fe15/Tableau/Screenshot%20of%20EDA.jpeg)
 
 
 
