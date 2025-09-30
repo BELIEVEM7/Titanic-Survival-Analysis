@@ -11,6 +11,13 @@ This project focuses on analyzing passenger data from the Titanic disaster to un
 ## Dataset: [Titanic - Machine Learing from Disaster](https://www.kaggle.com/competitions/titanic/data)
 
 ## Loading Data
+My project begins with loading data from CSV files using the pandas library, segregating the data into train and test datasets. These datasets contain crucial information about the Titanic passengers, forming the foundation of my analysis.
+
+### Data Cleaning
+
+I used excel for my data cleaning 
+
+
 
 
 
