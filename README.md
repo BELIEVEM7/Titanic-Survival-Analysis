@@ -1,1 +1,7 @@
-# Titanic Survival Analysis
+# Titanic Survival Analysis (Data Analysis) 
+
+This project focuses on analyzing passenger data from the Titanic disaster to uncover patterns and insights related to survival outcomes. Using data cleaning, transformation, and visualization techniques, we explore how factors such as age, gender, ticket class, and family presence influenced survival rates.
+
+## Imported Libraries
+
+
