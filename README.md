@@ -8,7 +8,7 @@ This project focuses on analyzing passenger data from the Titanic disaster to un
 - Jupyter Notebook for interactive analysis
 - Microsoft Excel for data cleaning
 
-## Dataset: 
+## Dataset: [Titanic - Machine Learing from Disaster](https://www.kaggle.com/competitions/titanic/data)
 
 ## Loading Data
 
